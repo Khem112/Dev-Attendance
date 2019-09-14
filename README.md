@@ -50,7 +50,7 @@ This project helps Teachers to take attendance and store, fetch data from mysql 
 	<br> </br>
 	6. Finally test app in emulator/phone (for phone, you should config wamp to work on your phone ).<br>
 
-# Note
+# Note : 
 1. User login details is predefined (manually insert login details in demo2/teacher table).
 
 # ScreenShots
